@@ -1,7 +1,8 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com) 
 
-Questions that can be answered 
+Questions that can be answered
+
 Statistical Questions:
 1. Stats of a disease in a given area.
 2. Correlation among occurence of disease.
